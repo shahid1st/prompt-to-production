@@ -108,6 +108,7 @@ Yes! All of these tools (IDEs and CLI tools) work perfectly with WSL. Just run t
 ---
 
 ## 💻 Windows Subsystem for Linux (WSL)
+**Note:** This section is only for **Windows** users. If you are using macOS or Linux, you already have a native Unix-like terminal and do not need WSL.
 
 ### How do I install WSL?
 Open **PowerShell** as Administrator and run:
